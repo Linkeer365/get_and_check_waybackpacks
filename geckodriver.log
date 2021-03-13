@@ -1,0 +1,2031 @@
+1615551782407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.5fEIcIgnz2GA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615551786215	Marionette	INFO	Listening on port 11184
+1615551786268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615551786310	Marionette	ERROR	[18] No reply from Marionette:Register
+1615551903750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=sock5:127.0.0.1:10086" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.LxX11FdDBfMe"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615551907529	Marionette	INFO	Listening on port 11386
+1615551907753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615551907769	Marionette	ERROR	[18] No reply from Marionette:Register
+1615552028112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=sock5:127.0.0.1:10086" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.xHnCUXmJK5i6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615552034737	Marionette	INFO	Listening on port 11556
+1615552035082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615552035114	Marionette	ERROR	[18] No reply from Marionette:Register
+1615552231585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.0pfCcwPRTojn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615552234739	Marionette	INFO	Listening on port 11739
+1615552234840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615552234917	Marionette	ERROR	[21] No reply from Marionette:Register
+1615552332199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.iEOvhQfKK60i"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615552335567	Marionette	INFO	Listening on port 11852
+1615552336132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615552336148	Marionette	ERROR	[21] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615554087161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.xWvUoTtjusDx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615554089796	Marionette	INFO	Listening on port 12277
+1615554089930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615554089957	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.pKGEKlzF7rqi"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615554149406	Marionette	INFO	Listening on port 12402
+1615554149473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615554149497	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615555781920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.3QncGMqXqPq8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615555784720	Marionette	INFO	Listening on port 12967
+1615555785181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615555785222	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615557000246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.STr2iLKg4nBq"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557004277	Marionette	INFO	Listening on port 13632
+1615557004714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615557004730	Marionette	ERROR	[18] No reply from Marionette:Register
+1615557203987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.2OOoBFuuUIWQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557207868	Marionette	INFO	Listening on port 13807
+1615557208341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615557208366	Marionette	ERROR	[21] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.aURdysPW3OFN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557544630	Marionette	INFO	Listening on port 14124
+1615557544788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615557544867	Marionette	ERROR	[21] No reply from Marionette:Register
+1615557570545	Marionette	INFO	Stopped listening on port 14124
+1615557577552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.4hNiA35izjGs"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557579943	Marionette	INFO	Listening on port 14227
+1615557580308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615557580330	Marionette	ERROR	[21] No reply from Marionette:Register
+1615557671281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.p71jbV6fOAOt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557674369	Marionette	INFO	Listening on port 14428
+1615557674829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615557674848	Marionette	ERROR	[21] No reply from Marionette:Register
+1615557888351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.pe6DXvvsCs5T"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557891197	Marionette	INFO	Listening on port 14597
+1615557891602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615557891617	Marionette	ERROR	[18] No reply from Marionette:Register
+1615557910716	Marionette	INFO	Stopped listening on port 14597
+1615557918142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.ocToPLEYmwT4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557920541	Marionette	INFO	Listening on port 14703
+1615557920884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615557920903	Marionette	ERROR	[18] No reply from Marionette:Register
+1615557933961	Marionette	INFO	Stopped listening on port 14703
+1615557940725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.s0dC0fihARlU"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557943484	Marionette	INFO	Listening on port 14821
+1615557943970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615557943989	Marionette	ERROR	[21] No reply from Marionette:Register
+1615557958984	Marionette	INFO	Stopped listening on port 14821
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615557965743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.QRc6jfwHY7kf"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557968746	Marionette	INFO	Listening on port 14923
+1615557968988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615557969003	Marionette	ERROR	[18] No reply from Marionette:Register
+1615558096776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.ZQr7S23jfgId"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615558100209	Marionette	INFO	Listening on port 1149
+1615558100655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615558100667	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: , line 0: uncaught exception: null
+86
+1615558856448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615558856710	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+ Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615559275316	Marionette	INFO	Listening on port 1613
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615559275660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615559275675	Marionette	ERROR	[18] No reply from Marionette:Register
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: out of memory
+console.error: (new Error("Error(s) encountered during statement execution: out of memory", "resource://gre/modules/Sqlite.jsm", 894))
+JavaScript error: , line 0: uncaught exception: null
+te errors will be ignored for this session
+1615559567935	Marionette	ERROR	[21] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+ Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615559838027	Marionette	INFO	Listening on port 1949
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615559838368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615559838383	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+ile?" (new Error("", "(unknown module)"))
+1615560215329	Marionette	INFO	Listening on port 2225
+1615560215439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615560215454	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 894))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: , line 0: uncaught exception: null
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: security-state/intermediates getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+console.error: services.settings: 
+  Message: AbortError: IndexedDB: security-state/cert-revocations getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.
+1615560724588	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: {"operation":"write","path":"C:\\Windows\\TEMP\\tmpaddon-da94b8","winLastError":112}
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+rror: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+1615560363264	Marionette	INFO	Listening on port 2373
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615560363661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615560363674	Marionette	ERROR	[18] No reply from Marionette:Register
+ConvertWinError received an unrecognized WinError: 0x70
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+out of memory: 0x0000000000000188 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ConvertWinError received an unrecognized WinError: 0x70
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1615560442402	Marionette	INFO	Stopped listening on port 2373
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+1615560481366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.BwUsfWIUMB7N"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+1615560484769	Marionette	INFO	Listening on port 2495
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615560485222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615560485238	Marionette	ERROR	[18] No reply from Marionette:Register
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: , line 0: uncaught exception: Object
+out of memory: 0x0000000000000188 bytes requested
+Exiting due to channel error.
+Exiting due to channel error.
+1615561690725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.Odp7rniJfnh2"
+*** You are running in headless mode.
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1096: NS_ERROR_FILE_ACCESS_DENIED: Could not open connection to C:\Windows\Temp\rust_mozprofile.Odp7rniJfnh2\content-prefs.sqlite: 2152857621
+JavaScript error: resource://gre/mConvertWinError received an unrecognized WinError: 0x70
+odules/Sqlite.jsm, line 1096: NS_ERROR_FILE_ACCESS_DENIED: Could not open connection to C:\Windows\Temp\rust_mozprofile.Odp7rniJfnh2\content-prefs.sqlite: 2152857621
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+[ERROR glean] Failed to initialize Glean: An I/O error occurred: 磁盘空间不足。 (os error 112)
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1615561693381	Marionette	INFO	Listening on port 3143
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+1615561693475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615561693490	Marionette	ERROR	[18] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: , line 0: uncaught exception: Object
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+out of memory: 0x0000000000000188 bytes requested
+JavaScript error: , line 0: uncaught exception: out of memory
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 151: uncaught exception: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 151: uncaught exception: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 151: uncaught exception: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 151: uncaught exception: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 151: uncaught exception: out of memory
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  XPIProvider shutdown
+          Phase: quit-application-granted
+          State: (none)
+WARNING: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: chrome://browser/content/browser.js, line 8766: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource:///modules/CustomizableUI.jsm, line 1349: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memoryJ
+avaScript error: , line 0: uncaught exception: out of memoryJ
+avaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource:///modules/Sanitizer.jsm, line 994: uncaught exception: out of memory
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  sanitize.js: Sanitize on shutdown
+          Phase: Places Clients shutdown
+          State: {"progress":{"isShutdown":true,"sanitizationPrefs":{"network_cookie_lifetimePolicy":0,"privacy_sanitize_sanitizeOnShutdown":false,"privacy_clearOnShutdown_cookies":true,"privacy_clearOnShutdown_history":true,"privacy_clearOnShutdown_formdata":true,"privacy_clearOnShutdown_downloads":true,"privacy_clearOnShutdown_cache":true,"privacy_clearOnShutdown_sessions":true,"privacy_clearOnShutdown_offlineApps":false,"privacy_clearOnShutdown_siteSettings":false,"privacy_clearOnShutdown_openWindows":false},"advancement":"newtab-segregation"}}
+WARNING: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource:///modules/Sanitizer.jsm :: sanitizeNewTabSegregation :: line 994"  data: no]
+WARNING: sanitizeNewTabSegregation@resource:///modules/Sanitizer.jsm:994:5
+sanitizeOnShutdown@resource:///modules/Sanitizer.jsm:810:5
+onStartup/<@resource:///modules/Sanitizer.jsm:159:31
+trigger@resource://gre/modules/AsyncShutdown.jsm:745:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:897:15
+wait@resource://gre/modules/AsyncShutdown.jsm:878:34
+wait@resource://gre/modules/nsAsyncShutdown.jsm:209:25
+addBlocker/moduleBlocker/<@resource://gre/modules/nsAsyncShutdown.jsm:156:30
+moduleBlocker@resource://gre/modules/nsAsyncShutdown.jsm:152:9
+trigger@resource://gre/modules/AsyncShutdown.jsm:745:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:897:15
+wait@resource://gre/modules/AsyncShutdown.jsm:878:34
+observe@resource://gre/modules/AsyncShutdown.jsm:555:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+JavaScript error: resource:///modules/Sanitizer.jsm, line 994: NS_ERROR_FAILURE
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: resource://gre/modules/nsAsyncShutdown.jsm, line 156: uncaught exception: out of memory
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  RemoteSettingsClient - finish IDB access.
+          Phase: profile-before-change
+          State: []
+WARNING: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: unout of memory: 0x0000000000200000 bytes requested
+caught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: uncaught exception: Object
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+out of memory: 0x0000000000200000 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0147,name=PContent::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+WARNING: At least one completion condition is taking too long to complete. Conditions: [] Barrier: profile-before-change
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+FATAL ERROR: AsyncShutdown timeout in profile-before-change Conditions: [] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 15672, Main Thread] ###!!! ABORT: file ?:0
+[Parent 15672, Main Thread] ###!!! ABORT: file ?:0
+1615562331544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.LRKizOVMNYwB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 894))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+1615562333992	Marionette	INFO	Listening on port 3237
+1615562334332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615562334345	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1]: Exception occurred reading font data for Informal Roman
+out of memory: 0x0000000000000188 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 968: TypeError: this._storage is null
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+1615562396886	Marionette	INFO	Stopped listening on port 3237
+: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: uncaught exception: Object
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 894))
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1615562381373	Marionette	INFO	Listening on port 3328
+1615562381420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615562381440	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1-]: Failed buffer for 0, 698, 717, 716
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+[GFX1-]: Failed buffer for 0, 698, 717, 716
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 894: Error: Error(s) encountered during statement execution: database or disk is full
+out of memory: 0x0000000000001000 bytes requested
+Exiting due to channel error.
+Exiting due to channel error.
+1615562486279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.Q2NXG7Gpy6z6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+console.log: "RemoteSettingsWorker error: UnknownError: IndexedDB:   The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/PlacesUtils.jsm, line 1974: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.tagsFolder]
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  QuotaExceededError
+[ERROR glean] Failed to initialize Glean: An I/O error occurred: 磁盘空间不足。 (os error 112)
+JavaScript error: , line 0: QuotaExceededError: The current transaction exceeded its quota limitations.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1096: NS_ERROR_FILE_ACCESS_DENIED: Could not open connection to C:\Windows\Temp\rust_mozprofile.Q2NXG7Gpy6z6\content-prefs.sqlite: 2152857621
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+console.error: SearchSettings: "_write: Could not write to settings file:" (new Error("", "(unknown module)"))
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Child 16016, MediaPDecoder #1] WARNING: Stream 1e13c98b2c8 ReadCacheFile failed, rv=NS_ERROR_FAILURE: file /builds/worker/checkouts/gecko/dom/media/MediaCache.cpp:2504
+[Child 16016, MediaPDecoder #1] WARNING: Stream 1e13c98b2c8 ReadCacheFile failed, rv=NS_ERROR_FAILURE: file /builds/worker/checkouts/gecko/dom/media/MediaCache.cpp:2504
+1615562501819	Marionette	INFO	Listening on port 3397
+1615562501863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1096: NS_ERROR_FILE_ACCESS_DENIED: Could not open connection to C:\Windows\Temp\rust_mozprofile.Q2NXG7Gpy6z6\content-prefs.sqlite: 2152857621
+1615562502088	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1096: NS_ERROR_FILE_ACCESS_DENIED: Could not open connection to C:\Windows\Temp\rust_mozprofile.Q2NXG7Gpy6z6\content-prefs.sqlite: 2152857621
+1615562502642	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1096: NS_ERROR_FILE_ACCESS_DENIED: Could not open connection to C:\Windows\Temp\rust_mozprofile.Q2NXG7Gpy6z6\content-prefs.sqlite: 2152857621
+ConvertWinError received an unrecognized WinError: 0x70
+ConvertWinError received an unrecognized WinError: 0x70
+JavaScript error: resource://gre/modules/NewTabUtils.jsm, line 1442: TypeError: conn is undefined
+1615562507638	Marionette	ERROR	[36] No reply from Marionette:Register
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 291: uncaught exception: out of memory
+out of memory: 0x0000000000000188 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+out of memory: 0x000000000004000C bytes requested
+console.error: "Could not write session state file " (new Error("TypeError: cannot use 'in' operator to search for \"toMsg\" in \"out of memory\"", "resource://gre/modules/workers/require.js line 138 > Function line 3 > eval", 184)) "postMessage@resource://gre/modules/PromiseWorker.jsm:349:17\n"
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 968: TypeError: this._storage is null
+1615606442132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.aGXdQ4koCJha"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615606457317	Marionette	INFO	Listening on port 6579
+1615606457356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615606457370	Marionette	ERROR	[36] No reply from Marionette:Register
+1615606457372	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615607132225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.99pKvKQg6Tyt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615607149684	Marionette	INFO	Listening on port 7299
+1615607149877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615607149899	Marionette	ERROR	[18] No reply from Marionette:Register
+1615607151181	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615607160874	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+1615608046245	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.oT8RtnjPUF7H"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615608063670	Marionette	INFO	Listening on port 7622
+1615608063745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615608063770	Marionette	ERROR	[18] No reply from Marionette:Register
+1615608064871	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615608074563	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: https://web.archive.org/web/20210126161137js_/https://linkeer365.github.io/Linkeer365ColorfulLife/js/motion.js, line 32: TypeError: window.anime is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615608759082	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1615608957727	Marionette	INFO	Stopped listening on port 7622
+1615608965025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.XxBZ69CqowCB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615608980822	Marionette	INFO	Listening on port 8135
+1615608981122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615608981141	Marionette	ERROR	[18] No reply from Marionette:Register
+1615608982209	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615608992033	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615610568319	Marionette	INFO	Stopped listening on port 8135
+1615610577078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.AGEPokMafFJN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615610595693	Marionette	INFO	Listening on port 8717
+1615610595840	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615610595866	Marionette	ERROR	[18] No reply from Marionette:Register
+1615610600029	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615610609605	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: https://web.archive.org/web/20210306181844js_/https://linkeer365.github.io/Linkeer365ColorfulLife2/js/motion.js, line 32: TypeError: window.anime is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615612033344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.ZzTAp1LypNdu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612051209	Marionette	INFO	Listening on port 9309
+1615612051296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612051334	Marionette	ERROR	[18] No reply from Marionette:Register
+1615612065991	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612075958	Marionette	ERROR	[36] No reply from Marionette:Register
+1615612413059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.lmqO7BAE2Ij9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612429951	Marionette	INFO	Listening on port 9823
+1615612430175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612430199	Marionette	ERROR	[18] No reply from Marionette:Register
+1615612431565	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612441595	Marionette	ERROR	[36] No reply from Marionette:Register
+1615612520651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.kIfGdpiWc4SQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612538112	Marionette	INFO	Listening on port 9951
+1615612538513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612538536	Marionette	ERROR	[18] No reply from Marionette:Register
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1615612539950	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612549595	Marionette	ERROR	[36] No reply from Marionette:Register
+1615612577431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.4VYRUHYkLuIq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612594749	Marionette	INFO	Listening on port 10065
+1615612595253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612595274	Marionette	ERROR	[21] No reply from Marionette:Register
+1615612596036	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612605229	Marionette	ERROR	[36] No reply from Marionette:Register
+1615612634748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.wKPG9YpuXwt2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612652744	Marionette	INFO	Listening on port 10184
+1615612653061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612653085	Marionette	ERROR	[21] No reply from Marionette:Register
+1615612656277	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612691969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.1MjRZlULtLRC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612709765	Marionette	INFO	Listening on port 10297
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612710275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612710297	Marionette	ERROR	[21] No reply from Marionette:Register
+1615612720171	Marionette	ERROR	[36] No reply from Marionette:Register
+1615612749277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.t1UoKI2p6PF2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612766190	Marionette	INFO	Listening on port 10404
+1615612766582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612766605	Marionette	ERROR	[21] No reply from Marionette:Register
+1615612768199	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612777854	Marionette	ERROR	[36] No reply from Marionette:Register
+1615612805441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.6ixCAUZb9o2R"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612823472	Marionette	INFO	Listening on port 10519
+1615612823871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612823894	Marionette	ERROR	[18] No reply from Marionette:Register
+1615612827041	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612862525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.CVm7rKvjqk4T"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612879658	Marionette	INFO	Listening on port 10626
+1615612880034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612880059	Marionette	ERROR	[18] No reply from Marionette:Register
+1615612880893	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612890307	Marionette	ERROR	[36] No reply from Marionette:Register
+1615612918932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.hCpWhsB0i9Tu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612935717	Marionette	INFO	Listening on port 10740
+1615612936221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612936239	Marionette	ERROR	[18] No reply from Marionette:Register
+1615612937530	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615612946881	Marionette	ERROR	[36] No reply from Marionette:Register
+1615612975109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.T6orc1rTpv0Q"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615612994195	Marionette	INFO	Listening on port 10853
+1615612994671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615612994689	Marionette	ERROR	[21] No reply from Marionette:Register
+1615612996423	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613006306	Marionette	ERROR	[36] No reply from Marionette:Register
+1615613033512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.pygi7verkFmW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613050502	Marionette	INFO	Listening on port 10969
+1615613050659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613050695	Marionette	ERROR	[18] No reply from Marionette:Register
+1615613051644	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613061368	Marionette	ERROR	[36] No reply from Marionette:Register
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1615613089740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.9krycey7NmFU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613106723	Marionette	INFO	Listening on port 11076
+1615613107245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613107266	Marionette	ERROR	[18] No reply from Marionette:Register
+1615613109405	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613119120	Marionette	ERROR	[36] No reply from Marionette:Register
+1615613146297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.uy6EyFN4wyyW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613165343	Marionette	INFO	Listening on port 11187
+1615613165418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613165437	Marionette	ERROR	[18] No reply from Marionette:Register
+1615613169226	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613204755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.rDQi2UtMXBTM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613224293	Marionette	INFO	Listening on port 11305
+1615613224509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613224746	Marionette	ERROR	[21] No reply from Marionette:Register
+1615613228057	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613263620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.xZuaPx8OiNeu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615613282429	Marionette	INFO	Listening on port 11417
+1615613282915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613282945	Marionette	ERROR	[22] No reply from Marionette:Register
+1615613286534	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613321957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.uXb9ljAAGpM8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613339848	Marionette	INFO	Listening on port 11492
+1615613340148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613340171	Marionette	ERROR	[18] No reply from Marionette:Register
+1615613340819	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613350874	Marionette	ERROR	[36] No reply from Marionette:Register
+1615613379491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.6ZBlnregR5pf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613397153	Marionette	INFO	Listening on port 11603
+1615613397638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613397671	Marionette	ERROR	[18] No reply from Marionette:Register
+1615613400433	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613436567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.3dZuHaGfIbxC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613454873	Marionette	INFO	Listening on port 11712
+1615613454926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613454947	Marionette	ERROR	[21] No reply from Marionette:Register
+1615613457746	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613494096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.6jKFkEJZJRjf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613510899	Marionette	INFO	Listening on port 11819
+1615613511026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613511053	Marionette	ERROR	[18] No reply from Marionette:Register
+1615613512722	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613523019	Marionette	ERROR	[36] No reply from Marionette:Register
+1615613550055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.MajtBofDc1oR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613568921	Marionette	INFO	Listening on port 11934
+1615613569032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613569061	Marionette	ERROR	[18] No reply from Marionette:Register
+1615613571872	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613607942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.ql32cmWVnE54"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613626269	Marionette	INFO	Listening on port 12052
+1615613626425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613626444	Marionette	ERROR	[21] No reply from Marionette:Register
+1615613629652	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613665470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.l1KvDkb9d2sa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613682808	Marionette	INFO	Listening on port 12164
+1615613683192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613683225	Marionette	ERROR	[18] No reply from Marionette:Register
+1615613684293	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615613693902	Marionette	ERROR	[36] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+1615613733141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.9Phkrkz3jCK1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615613749347	Marionette	INFO	Listening on port 12315
+1615613749385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615613749404	Marionette	ERROR	[18] No reply from Marionette:Register
+1615613749404	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615614845900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.VV5cTbST4W9D"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615614862342	Marionette	INFO	Listening on port 13333
+1615614862451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615614862498	Marionette	ERROR	[21] No reply from Marionette:Register
+1615614864896	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615614874764	Marionette	ERROR	[36] No reply from Marionette:Register
+1615614901602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.epsq6hbfVXIN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615614916944	Marionette	INFO	Listening on port 13481
+1615614917062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615614917078	Marionette	ERROR	[18] No reply from Marionette:Register
+1615614917988	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615614923103	Marionette	ERROR	[36] No reply from Marionette:Register
+1615615006114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.A2wnGJHWOVMX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615615021990	Marionette	INFO	Listening on port 13607
+1615615022147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615615022162	Marionette	ERROR	[18] No reply from Marionette:Register
+1615615023747	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615615033202	Marionette	ERROR	[36] No reply from Marionette:Register
+1615615060907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.PsdmJErDjRII"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615615076912	Marionette	INFO	Listening on port 13729
+1615615077368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615615077389	Marionette	ERROR	[18] No reply from Marionette:Register
+1615615078523	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615615088075	Marionette	ERROR	[36] No reply from Marionette:Register
+1615615745637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.iCvJ7yROwKQd"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615615761101	Marionette	INFO	Listening on port 14424
+1615615761146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615615761163	Marionette	ERROR	[18] No reply from Marionette:Register
+1615615762528	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615615772945	Marionette	ERROR	[36] No reply from Marionette:Register
+1615615869000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.cRAp5PPPCHLf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+out of memory: 0x0000000000000078 bytes requested
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+JavaScriptA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615615886659	Marionette	INFO	Listening on port 14558
+1615615887430	Marionette	INFO	Stopped listening on port 14558
+1615615961941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.m64LxIahp7JP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615615977805	Marionette	INFO	Listening on port 14674
+1615615977946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615615977977	Marionette	ERROR	[18] No reply from Marionette:Register
+1615615978724	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615615983701	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.sCwfuICVO2wb"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615616093698	Marionette	INFO	Listening on port 14903
+1615616094120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615616094146	Marionette	ERROR	[18] No reply from Marionette:Register
+1615616095651	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615616106379	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: https://web.archive.org/web/20210306152134js_/https://linkeer365.github.io/Linkeer365ColorfulLife2/js/motion.js, line 32: TypeError: window.anime is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615617528537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.6tEe90gjuVWn"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615617544853	Marionette	INFO	Listening on port 1717
+1615617545204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615617545219	Marionette	ERROR	[18] No reply from Marionette:Register
+1615617545923	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615617551102	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.kLTMAgXH8suN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615617850564	Marionette	INFO	Listening on port 1901
+1615617850886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615617850927	Marionette	ERROR	[18] No reply from Marionette:Register
+1615617852490	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615617861958	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615632529374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.QyJkAw4WQQY5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615632552261	Marionette	INFO	Listening on port 3293
+1615632552348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615632552366	Marionette	ERROR	[18] No reply from Marionette:Register
+1615632553612	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615632564147	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615633452016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.NPQcbq2YZRd6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615633468979	Marionette	INFO	Listening on port 3703
+1615633469215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615633469235	Marionette	ERROR	[21] No reply from Marionette:Register
+1615633473266	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615633482921	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615634399968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.2cOKpGhYHIjI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615634416013	Marionette	INFO	Listening on port 4159
+1615634416072	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615634416104	Marionette	ERROR	[18] No reply from Marionette:Register
+1615634416508	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615634426413	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615635439839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.96teEGk8jw8q"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615635456998	Marionette	INFO	Listening on port 4886
+1615635457464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615635457480	Marionette	ERROR	[18] No reply from Marionette:Register
+1615635457645	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615635467040	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615636255261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.QSvmM8SJJXzC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615636272768	Marionette	INFO	Listening on port 5298
+1615636273060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615636273090	Marionette	ERROR	[18] No reply from Marionette:Register
+1615636273996	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615636284026	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615637189367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.lNwIp7RvndF4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615637207266	Marionette	INFO	Listening on port 5719
+1615637207459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615637207476	Marionette	ERROR	[18] No reply from Marionette:Register
+1615637207794	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615637212889	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615637798783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.0dQ6mXl0GOq8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615637814650	Marionette	INFO	Listening on port 6031
+1615637814847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615637814861	Marionette	ERROR	[18] No reply from Marionette:Register
+1615637814861	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.fNmJ3JzZ928Q"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615637915782	Marionette	INFO	Listening on port 6133
+1615637916060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615637916083	Marionette	ERROR	[18] No reply from Marionette:Register
+1615637916089	Marionette	ERROR	[36] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+x\\firefox.exe" "-marionette" "-headless" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.DAjOcuSpyr45"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615638016438	Marionette	INFO	Listening on port 6220
+1615638016668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615638016684	Marionette	ERROR	[18] No reply from Marionette:Register
+1615638017441	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615638022541	Marionette	ERROR	[36] No reply from Marionette:Register
+out of memory: 0x0000000000000188 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000001000 bytes requested
+JavaScript error: , line 0: uncaught exception: out of memory
+1615638247893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--proxy-server=socks5:127.0.0.1:10086" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.s1ws7gxmODKr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615638263464	Marionette	INFO	Listening on port 6415
+1615638263960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615638263975	Marionette	ERROR	[18] No reply from Marionette:Register
+1615638264701	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5940: TypeError: aTab is undefined
+1615638269656	Marionette	ERROR	[36] No reply from Marionette:Register
+out of memory: 0x0000000000000188 bytes requested
+1615638529591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--proxy-server=socks5:127.0.0.1:10086" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.45EUk6kHaGEI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615638546545	Marionette	INFO	Listening on port 6568
+1615638546640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615638546942	Marionette	ERROR	[21] No reply from Marionette:Register
+1615638548283	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+out of memory: 0x0000000000000020 bytes requested
+Exiting due to channel error.
+1615638692089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.CrD54IzMR0Hh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615638708384	Marionette	INFO	Listening on port 6710
+1615638708595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615638708611	Marionette	ERROR	[18] No reply from Marionette:Register
+1615638709137	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.archive.org/web/20210306205038js_/https://linkeer365.github.io/Linkeer365TinyMoment/js/motion.js, line 32: TypeError: window.anime is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+1615639490472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.1qziRqjEm6lV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615639507142	Marionette	INFO	Listening on port 7101
+1615639507470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615639507510	Marionette	ERROR	[18] No reply from Marionette:Register
+1615639508958	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615640071729	Marionette	ERROR	[42] No reply from Marionette:Register
+1615640211747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--proxy-server=http:127.0.0.1:10087" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofile.vNfLGmYWnGyS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615640227220	Marionette	INFO	Listening on port 7446
+1615640227329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615640227450	Marionette	ERROR	[18] No reply from Marionette:Register
+1615640228929	Marionette	ERROR	[36] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1615640340389	Marionette	INFO	Stopped listening on port 7446
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
